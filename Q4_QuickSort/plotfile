@@ -1,0 +1,5 @@
+set xlabel "Problem Size"
+set ylabel "Execution Time in milliseconds"
+
+plot "QUICK_SORT_TIME.TXT" with lines title "Quick Sort" , #\
+#"/home/divyaksh/Documents/Coding/java_programs/Q5_MergeSort/MERGE_SORT_TIME.TXT" with lines title "Merge Sort"
