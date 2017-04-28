@@ -1,0 +1,3 @@
+set xlabel "Problem Size"
+set ylabel "Execution Time"
+plot "MERGE_SORT_TIME.TXT" with lines title "MERGE SORT"

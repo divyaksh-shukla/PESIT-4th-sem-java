@@ -1,4 +1,9 @@
 #!/bin/bash
 
 mkdir $1
+<<<<<<< HEAD
+cd $1
+touch $1.java
+=======
 touch $1/$1.java
+>>>>>>> 19d62fe1a3dd09dd770cf76707f391f9883e728e
