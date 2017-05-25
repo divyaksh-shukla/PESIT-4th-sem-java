@@ -53,7 +53,7 @@ class Customer {
 	
 }
 
-class MainClass {
+class Q2b_CustomerData {
 	
 	public static void main(String args[]) throws Exception {
 		

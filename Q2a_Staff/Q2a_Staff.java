@@ -112,7 +112,7 @@ class Contract extends Staff {
 	}
 }
 
-class MainClass {
+class Q2a_Staff{
 
 	public static void main(String args[]) {
 

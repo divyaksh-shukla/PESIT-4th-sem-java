@@ -67,7 +67,7 @@ class Djikstra {
 	}
 }
 
-class MainClass {
+class Q7_Djikstra{
 	public static void main(String args[]) {
 		Scanner scanner = new Scanner(System.in);
 

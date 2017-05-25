@@ -62,7 +62,7 @@ class Cube extends Thread {
 	}
 }
 
-class MainClass {
+class Q3b_Multithreading {
 
 	public static void main(String args[]) {
 

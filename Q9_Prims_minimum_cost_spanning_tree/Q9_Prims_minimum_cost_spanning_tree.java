@@ -68,7 +68,7 @@ class SpanningTree {
 	}
 }
 
-class MainClass {
+class Q9_Prims {
 
 	public static void main(String args[]) {
 		Scanner scanner = new Scanner(System.in);

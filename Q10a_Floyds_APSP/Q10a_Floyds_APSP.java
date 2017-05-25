@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MainClass {
+public class Q10a_Floyds_APSP {
 	public static void main(String args[]) {
 
 		Scanner scanner = new Scanner(System.in);

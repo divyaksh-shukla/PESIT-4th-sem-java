@@ -97,7 +97,7 @@ class Knapsack {
         }
 }
 
-class MainClass {
+class Q6_Knapsack {
         public static void main(String args[]) {
 
 		System.out.println("\t\t0/1 KNAPSACK PROBLEM\n");

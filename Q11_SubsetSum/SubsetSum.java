@@ -59,7 +59,7 @@ class SubsetSum {
     }
 }
 
-class MainClass {
+class Q11_SubsetSum {
     public static void main(String args[]) {
         System.out.println("\t\tSUBSET SUM\n");
         SubsetSum subsetSum = new SubsetSum();
